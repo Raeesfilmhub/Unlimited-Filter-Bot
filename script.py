@@ -2,59 +2,32 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+🔊ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ്, എൻറെ വിധി എൻറെ അഡ്മിന്റെ തീരുമാനങ്ങളാണ്, വെറുതെ സമയം കളയണ്ട എന്നെ ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ😉
+
+🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘
+
+🔊𝗜'𝗺 𝗮 𝗴𝗿𝗼𝘂𝗽 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 𝗯𝗼𝘁, 𝗺𝘆 𝗱𝗲𝘀𝘁𝗶𝗻𝘆 𝗶𝘀 𝗺𝘆 𝗮𝗱𝗺𝗶𝗻'𝘀 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀, 𝗰𝗮𝗻 𝗼𝗻𝗹𝘆 𝘂𝘀𝗲 𝗺𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗙𝗶𝗹𝗺 𝗛𝘂𝗯 𝗴𝗿𝗼𝘂𝗽 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝘄𝗮𝘀𝘁𝗶𝗻𝗴 𝘁𝗶𝗺𝗲😉
+
+🔰👉 കൂടുതൽ സിനിമകൾക്കും മറ്റു വിവരങ്ങൾക്കുമായി ഞങ്ങളുടെ ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യൂ
+
+🌟༺ ──•◈•─ ─•◈•──༻🌟
+➧@efxado
+➧@efxado
 
 See <i>/help</i> for commands and more details.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+Help onm illa mwone😌😹
 
-
-<b>Basic Commands;</b>
-
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
-
-
-<b>Filter Commands;</b>
-
-<code>/add name reply</code>  -  Add filter for name
-
-<code>/del name</code>  -  Delete filter
-
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
-
-<code>/viewfilters</code>  -  List all filters in chat
-
-
-<b>Connection Commands;</b>
-
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
-
-<code>/connections</code>  -  Manage your connections.
-
-
-<b>Extras;</b>
-
-/status  -  Shows current status of your bot (Auth User Only)
-
-/id  -  Shows ID information
-
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-
-
-<b>© @TroJanzHEX</b>
+<b>© @raees6 </b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Efxado bot </b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @raees6
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
